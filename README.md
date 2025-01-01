@@ -3,6 +3,9 @@
 ## Project Overview
 A content-based movie recommendation system implemented in Jupyter Notebook that suggests similar movies based on cast, crew, genres and other movie features. The system uses cosine similarity to find movies with similar characteristics.
 
+### Note
+File recc_sys_preprocessing.ipynb and recc_sys_dataset2020_2023.ipynb are the preprocessing notebooks.
+reccomendersystemproject.ipynb is main implementing code.
 ## Dataset
 The system uses multiple datasets merged together:
 - Movie metadata from IMDB
